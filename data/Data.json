@@ -1,0 +1,156 @@
+[{
+        "id": "chef1",
+        "name": "Silvia Colloca",
+        "picture": "https://img.delicious.com.au/y6JWKRls/w506-h506-cfill/del/2015/11/silvia-colloca-24490-2.jpg",
+        "experience": "10 years",
+        "num_recipes": 700,
+        "likes": 12000,
+        "bio": "Is there anything Italian-born creative powerhouse Silvia Colloca can’t do? An actress (who met Aussie actor husband Richard Roxborough on the set of a vampire movie), opera singer, and now a food blogger, cookbook author, TV star, and delicious. columnist of course.",
+        "recipes": [{
+                "name": "Lemon and almond cake with ricotta frosting",
+                "ingredients": ["4 large eggs, separated, at room temperature", "1/2 cup (110g) caster sugar", "Finely grated zest from 3 large lemons", "1 tsp vanilla bean paste"],
+                "instructions": ["Preheat oven to 200°C/180°C fan-forced. Grease base and sides of a 20cm round springform cake pan and line with baking paper.", "Beat egg whites and a pinch of salt flakes in a stand mixer fitted with the whisk attachment until "]
+            },
+            {
+                "name": "Three-tier pavlova tiramisu",
+                "ingredients": ["6 egg whites", "1 1/2 cups (330g) caster sugar", "1 1/4 tsp white wine vinegar", "1 1/4 tsp cornflour"],
+                "instructions": "Preheat oven to 150°C/130°C fan-forced. Line 3 baking trays with baking paper. Trace an 18cm circle on each piece of paper and flip paper over."
+            },
+            {
+                "name": "Risotto with radicchio, walnuts and Taleggio",
+                "ingredients": ["1.5L (6 cups) chicken or vegetable stock", "1/4 cup (60ml) extra virgin olive oil", "1 onion, finely chopped", "1 3/4 cups (385g) arborio or carnaroli rice"],
+                "instructions": "Pour the stock into a medium saucepan and bring to a gentle simmer over medium-low heat. Heat 2 tbs oil in a deep, large, heavy-based frypan over medium heat. Cook onion, stirring occasionally, for 5 minutes or until soft and translucent. Increase heat to medium-high, add the rice and stir for 1-2 minutes until the grains are translucent. Pour in the wine and cook, stirring constantly, for 1 minute or until evaporated."
+            }
+
+        ]
+    },
+    {
+        "id": "chef2",
+        "name": "Nornie Bero",
+        "picture": "https://img.delicious.com.au/svm6xxcj/w506-h506-cfill/del/2020/07/mabu-mabu-vic-135794-2.jpg",
+        "experience": "10 years",
+        "num_recipes": 100,
+        "likes": 12000,
+        "bio": "Nornie Bero is the head chef and business owner of Mabu Mabu. Originally from Mer Island in the Torres Strait, Nornie has been a professional chef for over 20 years.",
+        "recipes": [{
+                "name": "Nornie Bero's strawberry gum marshmallows",
+                "ingredients": ["Vegetable oil, to grease", "2 tbs (28g) powdered gelatine", "385g glucose syrup"],
+                "instructions": ["Grease a 20cm x 30cm 2.5cm-deep cake pan and line with baking paper. Lightly grease paper.Place gelatine and 1/2 cup (125ml) cold water in the bowl of a stand mixer fitted with the whisk attachment. Stir to combine. Stand for 15 minutes. Place glucose, sugar, 1/4 tsp fine salt and 1/2 cup (125ml) water in a small saucepan over medium-low heat, stirring constantly until sugar dissolves. Increase heat to high and cook, without stirring, until mixture reaches 115°C on a sugar thermometer. "]
+            },
+            {
+                "name": "Warrigal greens verde dip with potato chips",
+                "ingredients": ["1 eschalot, finely chopped", "1 long red chilli, seeds removed, finely chopped", "4 garlic cloves, crushed"],
+                "instructions": "Place eschalot, chilli, garlic and vinegar in a medium bowl. Whisk in the olive oil, then set aside. Finely chop warrigal greens, parsley, oregano and coriander and add to the bowl. Season with 1 tsp salt flakes and pepperberry."
+            },
+            {
+                "name": "Chilli samphire vongole and bush tomato linguine",
+                "ingredients": ["400g dried linguine", "1/4 cup (60ml) extra virgin olive oil", "2 garlic cloves, crushed"],
+                "instructions": "Bring a large saucepan of salted water to boil. Add linguine, stir and cook for 9-12 minutes until al dente.Meanwhile, place oil in a large saucepan with a lid over medium heat. Add garlic, eschalot, bush tomato and samphire. Cook for 2-3 minutes until eschalot has a bit of colour. Increase heat to high, add the vongole and chilli flakes and toss a couple of times to combine. Cover with a lid and cook for 3-4 minutes until vongole open (discard any that remain closed)."
+            }
+
+        ]
+    },
+    {
+        "id": "chef3",
+        "name": "Yotam Ottolenghi",
+        "picture": "https://img.delicious.com.au/lfcmccKk/w506-h506-cfill/del/2018/09/yotam-ottolenghi-87163-3.jpg",
+        "experience": "10 years",
+        "num_recipes": 600,
+        "likes": 130000,
+        "bio": "Yotam Assaf Ottolenghi is an Israeli-British chef, restaurant owner, and food writer. He is the co-owner of five delis and restaurants in London, as well as the author of the bestselling cookbooks, including Ottolenghi, Plenty, and Jerusalem.",
+        "recipes": [{
+                "name": "Rosemary, olive oil and orange cake",
+                "ingredients": ["10 small rosemary sprigs, each no more than 3cm long (see note)", "1 egg white, lightly whisked", "2 tsp caster sugar", "1 tsp vanilla bean paste"],
+                "instructions": ["At least 6 hours before you plan to ice the cake, prepare the crystallised rosemary: brush rosemary on all sides with a little of the egg white and then dip it in the sugar, so the needles are lightly coated on all sides. Set aside on a wire rack to dry. Repeat with remaining rosemary.To make the cake, heat oven to 160°C/140°C fan-forced. Generously grease a 23cm bundt pan with half the butter and refrigerate for 10 minutes. Butter again, generously, and then flour it, tapping away the excess. "]
+            },
+            {
+                "name": "Devil's food cake with hazelnut praline",
+                "ingredients": ["150g sunflower oil (by weight not by volume), plus more for greasing the pan", "190g plain flour", "1 tsp baking powder"],
+                "instructions": "Preheat the oven to 200°C. Line the bottom of 2 x 20cm springform cake pans with baking paper and grease the sides. Alternatively, grease the bottoms and sides of 2 x 20cm regular cake pans, line with baking paper, and grease the baking paper."
+            },
+            {
+                "name": "Devil's food cake with hazelnut praline",
+                "ingredients": ["150g sunflower oil (by weight not by volume), plus more for greasing the pan", "75g unsweetened Dutch-processed cocoa powder", "190g plain flour"],
+                "instructions": "Preheat the oven to 200°C. Line the bottom of 2 x 20cm springform cake pans with baking paper and grease the sides. Alternatively, grease the bottoms and sides of 2 x 20cm regular cake pans, line with baking paper, and grease the baking paper."
+            }
+
+        ]
+    },
+    {
+        "id": "chef4",
+        "name": "Colin Fassnidge",
+        "picture": "https://img.delicious.com.au/VzQ1c--U/w506-h506-cfill/del/2015/10/colin-fassnidge-4-fourteen-and-four-in-hand-sydney-19484-4.jpg",
+        "experience": "10 years",
+        "num_recipes": 750,
+        "likes": 140000,
+        "bio": "Colin forms one half of delicious. duo The Chef and the Butcher, demystifying the rules of cooking with meat along with his providore mate Anthony Puharich. The Dublin-born chef learnt very early that he had a passion for cooking, completing his training under the renowned Raymond Blanc at England’s Le Manoir aux Quat’Saisons. Colin’s nose-to-tail philosophy has seen him become one of the stars of the Sydney dining scene since arriving on our shores in 1999, heading up 4Fourteen, while his Irish gift of the gab has seen him become well-known around the country for his role on television’s My Kitchen Rules. Colin’s first cookbook, Four Kitchens, was published in 2014.",
+        "recipes": [{
+                "name": "Colin Fassnidge's ultimate carbonara",
+                "ingredients": ["2 tbs extra virgin olive oil", "200g guanciale, sliced", "500g spaghetti"],
+                "instructions": ["Heat oil in a large, deep frypan over medium heat. Add guanciale and cook, stirring occasionally, for 6-8 minutes until fat renders and guanciale is crisp. Remove pan from heat. "]
+            },
+            {
+                "name": "Colin's 'Death Row' lamb roast",
+                "ingredients": ["1.5kg lamb leg", "1.5kg desiree potatoes, thinly sliced (we used a mandoline)"],
+                "instructions": "Place the lamb leg on a plate. Rub 1 tsp salt flakes into the skin. Chill in the fridge, uncovered, for 2-3 days. Preheat oven to 240°C. For the anchovy and herb butter, place all ingredients in the bowl of a small food processor and whiz until a coarse paste."
+            },
+            {
+                "name": "Pea and ham soup ",
+                "ingredients": ["1.5kg leftover ham hock", "1 onion, roughly chopped", "1 carrot, roughly chopped"],
+                "instructions": "Place saucepan over high heat and bring to a simmer. Reduce heat to low and cook, uncovered, occasionally skimming off any fat that rises to the surface, for 3-4 hours (top up the water occasionally, if required) until the meat falls off the bone. Transfer the ham hock to a board, reserving stock. When cool enough to handle, shred the meat and set aside. Discard the bone and skin."
+            }
+
+        ]
+    },
+    {
+        "id": "chef5",
+        "name": "Guillaume Brahimi",
+        "picture": "https://img.delicious.com.au/qYuu5grU/w506-h506-cfill/del/2015/09/gb-21739-1.jpg",
+        "experience": "10 years",
+        "num_recipes": 800,
+        "likes": 50000,
+        "bio": "Acclaimed chef Guillaume Brahimi may talk about the best local ingredients in a very charming French accent, but that doesn’t make him any less qualified to judge them in the delicious. Produce Awards. The Paris-born chef arrived in Sydney in the 1990s, after earning his cooking credentials at Aux Charpentiers, La Tour d’Argent and Joel Robuchon’s Jamin, and quickly became a star of the dining scene. While the closure of his multi-award-winning Guillaume at Bennelong in the Sydney Opera House in 2013 was met with sadness, he returned to the NSW ",
+        "recipes": [{
+                "name": "Roast chicken with tarragon jus",
+                "ingredients": ["1 bunch thyme", "1/2 cup (110g) caster sugar", "1.6kg whole free-range chicken"],
+                "instructions": ["Reduce oven to 200°C and roast chicken for 55 minutes or until golden and cooked through (the juices will run clear when the thickest part of a thigh is pierced with a skewer). Remove chicken from oven and rest for 15 minutes. "]
+            },
+            {
+                "name": "Cranberry and pistachio nougat",
+                "ingredients": ["4 sheets edible rice paper", "525g caster sugar", "225g glucose syrup"],
+                "instructions": "Preheat oven to 140°C. Line the base and sides of a 30cm x 20cm x 4cm baking tray with baking paper. Trim 2 sheets of rice paper to fit, slightly overlapping, in the base of prepared tray."
+            },
+            {
+                "name": "Apple tarte tatin with cinnamon ice cream",
+                "ingredients": ["10 Granny Smith apples, peeled", "2 cups (440g) caster sugar", "200g unsalted butter, chopped"],
+                "instructions": "For cinnamon ice cream, place milk, cream and cinnamon in a saucepan over medium-high heat and bring to just below boiling point. Whisk egg yolks and sugar in a bowl until pale. Gradually pour milk mixture over egg mixture, whisking constantly. Transfer to a clean saucepan over medium-low heat and cook, stirring, for 7-8 minutes or until custard coats the back of a spoon. Chill until cold, discard cinnamon quills, then churn in an ice cream machine according to manufacturer’s instructions. Transfer to a loaf pan and freeze overnight"
+            }
+
+        ]
+    }, {
+        "id": "chef6",
+        "name": "Matt Moran",
+        "picture": "https://img.delicious.com.au/5XSsnz2t/w506-h506-cfill/del/2015/10/matt-moran-long-standing-judge-delicious-produce-awards-19281-3.jpg",
+        "experience": "10 years",
+        "num_recipes": 700,
+        "likes": 150000,
+        "bio": "One of the busiest and most recognisable chefs in the Australian food industry, Matt finds time to judge the delicious. Produce Awards and create recipe features for us in between conquering the Sydney and Brisbane restaurant scenes with his acclaimed restaurants, and winning the TV ratings with his Foxtel hits Paddock to Plate and The Great Australian Bakeoff, in which he co-stars with Maggie Beer.",
+        "recipes": [{
+                "name": "Ploughman's platter",
+                "ingredients": ["4 large eggs, separated, at room temperature", "1/2 cup (110g) caster sugar", "Finely grated zest from 3 large lemons", "1 tsp vanilla bean paste"],
+                "instructions": ["Preheat oven to 200°C/180°C fan-forced. Grease base and sides of a 20cm round springform cake pan and line with baking paper.", "Beat egg whites and a pinch of salt flakes in a stand mixer fitted with the whisk attachment until "]
+            },
+            {
+                "name": "Three-tier pavlova tiramisu",
+                "ingredients": ["6 egg whites", "1 1/2 cups (330g) caster sugar", "1 1/4 tsp white wine vinegar", "1 1/4 tsp cornflour"],
+                "instructions": "Preheat oven to 150°C/130°C fan-forced. Line 3 baking trays with baking paper. Trace an 18cm circle on each piece of paper and flip paper over."
+            },
+            {
+                "name": "Risotto with radicchio, walnuts and Taleggio",
+                "ingredients": ["1.5L (6 cups) chicken or vegetable stock", "1/4 cup (60ml) extra virgin olive oil", "1 onion, finely chopped", "1 3/4 cups (385g) arborio or carnaroli rice"],
+                "instructions": "Pour the stock into a medium saucepan and bring to a gentle simmer over medium-low heat. Heat 2 tbs oil in a deep, large, heavy-based frypan over medium heat. Cook onion, stirring occasionally, for 5 minutes or until soft and translucent. Increase heat to medium-high, add the rice and stir for 1-2 minutes until the grains are translucent. Pour in the wine and cook, stirring constantly, for 1 minute or until evaporated."
+            }
+
+        ]
+    }
+]
